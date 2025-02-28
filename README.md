@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Juan Carlos Candelo
+# 👋 Hi
 
 ## 💫 About Me:
-### 👨‍💻 Systems Engineer | QA
-I am a professional with solid experience in software quality, specializing in requirements gathering and analysis, execution of functional and non-functional tests, as well as designing and implementing testing strategies to ensure software quality.
+👨‍💻 Systems Engineer | QA <br>
+
+My name is Juan Carlos, I am a professional with solid experience in software quality, specializing in requirements gathering and analysis, execution of functional and non-functional tests, as well as designing and implementing testing strategies to ensure software quality.
 
 ---
 
