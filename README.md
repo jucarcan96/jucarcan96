@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Juan Carlos Candelo
 
 ## 👨‍💻 Systems Engineer | QA
-I'm a professional with solid experience in software quality, specializing in requirements gathering and analysis, execution of functional and non-functional tests, as well as designing and implementing testing strategies to ensure software quality.
+I am a professional with solid experience in software quality, specializing in requirements gathering and analysis, execution of functional and non-functional tests, as well as designing and implementing testing strategies to ensure software quality.
 
 ---
 
 ## 🛠️ Skills
-✅ Requirements gathering and analysis.  
-✅ Execution of functional tests (Regression, Acceptance, System).
-✅ Non-functional testing (Load, Performance, Usability).
-✅ Software implementation.
-✅ Test case design and execution.  
-✅ Issue reporting.
-✅ SQL query creation and execution.  
-✅ Software and API testing and analysis.
+✅ Requirements gathering and analysis  
+✅ Execution of functional tests (Regression, Acceptance, System)  
+✅ Non-functional testing (Load, Performance, Usability)  
+✅ Software implementation  
+✅ Test case design and execution  
+✅ Issue reporting  
+✅ SQL query creation and execution  
+✅ Software and API testing and analysis  
 
 ---
 
@@ -34,4 +34,3 @@ I'm a professional with solid experience in software quality, specializing in re
 📧 Email: *juan.candelo@hotmail.com*  
 
 Thanks for visiting my profile! 🚀
-
